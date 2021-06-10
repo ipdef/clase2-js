@@ -8,7 +8,7 @@ for(let i = 1; i<=5; i++){
 }
 alert("La suma es: " + suma);
 
-/******************************************************************* */
+
 
 // 2.promedio
 
@@ -28,7 +28,6 @@ if(!isNaN(valor)){
 }
 
 
-/************************************************************ */
 
 
 //3. EDADES
@@ -45,7 +44,6 @@ for (let i=1; i<=edades; i++){
 alert("Son mayores de edad " + cont + " personas");
 
 
-/*********************************************************** */
 
 //4.Pares e impares
 
@@ -64,7 +62,7 @@ for(let i = 0; i<cantidad ; i++){
 alert("Hay " + par + " numeros pares");
 alert("Hay " + impar + " numeros impares");
 
-/************************************************************************* */
+
 
 //5.De números a letras
 
